@@ -1,6 +1,8 @@
 streamlit
 requests
 beautifulsoup4
-llama-index
+transformers
+sentence-transformers
+llama-index>=0.10.20
 llama-index-llms-ollama
 llama-index-embeddings-ollama
