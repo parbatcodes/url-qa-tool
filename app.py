@@ -6,7 +6,7 @@ from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.ollama import OllamaEmbedding
 import os
 from llama_index.core.settings import Settings
-from llama_index.embeddings import HuggingFaceEmbedding
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 
 
