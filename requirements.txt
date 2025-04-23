@@ -6,3 +6,5 @@ sentence-transformers
 llama-index>=0.10.20
 llama-index-llms-ollama
 llama-index-embeddings-ollama
+lxml
+einops
